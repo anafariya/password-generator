@@ -1,5 +1,7 @@
 # Password Generator
 
+https://anafariya.github.io/password-generator/
+
 This is a simple React application that generates passwords based on user preferences. The user can customize the password length, include numbers, and include special characters. The generated password can be copied to the clipboard with a single click.
 
 ![Screenshot (41)](https://github.com/anafariya/password-generator/assets/70438803/46d7ccce-5220-40e5-a6a3-dd5aa0783381)
